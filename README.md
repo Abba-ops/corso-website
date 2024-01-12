@@ -1,7 +1,7 @@
-# Corso Bootstrap Learning
+# Bootstrap 5 Learning Project
 
-Learn Bootstrap 5 with a simple web project focusing on responsive design and customization.
+Developed while mastering Bootstrap 5 for responsive and stylish web design.
 
-![Corso Logo](https://i.ibb.co/jfWGzPH/Screenshot-35.png)
+![Project Screenshot](https://i.ibb.co/jfWGzPH/Screenshot-35.png)
 
-Check out the live preview: [Corso Website](https://corso-website-beige.vercel.app/)
+Live Preview: [Check it out here](https://corso-website-beige.vercel.app/)
